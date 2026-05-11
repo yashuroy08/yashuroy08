@@ -1,98 +1,160 @@
 <div align="center">
 
 # Yashwanth Patam
+
 ### Backend Engineer • Java Ecosystem • Security Architecture
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0891b2&center=true&vCenter=true&width=600&lines=Java+Developer;Building+Secure+Backend+Systems;DevOps+%7C+CI%2FCD+%7C+Cloud;Exploring+Basic+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Spring+Boot+Developer;Security-Focused+Backend+Engineer;Building+Scalable+Java+Systems;DevOps+%7C+CI%2FCD+%7C+Cloud" />
 
 <br/>
 
 <a href="https://github.com/yashuroy08">
-  <img src="https://img.shields.io/github/followers/yashuroy08?style=for-the-badge&color=1c1917&labelColor=1c1917&logo=github&logoColor=0891b2" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/yashuroy08?style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
+
 <a href="https://github.com/yashuroy08?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-View_Work-1c1917?style=for-the-badge&labelColor=1c1917&logo=files&logoColor=0891b2" alt="Projects" />
+  <img src="https://img.shields.io/badge/Projects-View_Work-0891b2?style=for-the-badge&labelColor=1c1917" />
 </a>
+
 <a href="https://yashwanth-portfolio-sigma.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Live-1c1917?style=for-the-badge&labelColor=1c1917&logo=vercel&logoColor=0891b2" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Live-0891b2?style=for-the-badge&labelColor=1c1917" />
 </a>
 
 </div>
 
 ---
 
-## ▎ Executive Summary
+# About Me
 
-Final Year CSE student operating at an intermediate level in the Java ecosystem, alongside foundational knowledge in Python. Focused on engineering secure, production-oriented backend architectures and scalable APIs. 
+Final Year CSE student specializing in the Java ecosystem with strong focus on:
 
-* **Core Focus:** Secure Backend Architectures, REST API Engineering, Authentication Systems.
-* **Current Workflow:** Spring Boot, PostgreSQL, Redis, Docker, and CI/CD pipelines.
+- Secure Backend Architectures
+- Authentication & Authorization Systems
+- REST API Engineering
+- CI/CD & DevOps Automation
+- Scalable System Design
+
+Currently building production-oriented backend systems using Spring Boot, PostgreSQL, Redis, Docker, and cloud deployment workflows.
 
 ---
 
-## ▎ Technical Arsenal
+# Tech Stack
 
 <div align="center">
 
-| Core Backend | Databases & Cache | DevOps & Testing |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Java-1c1917?style=for-the-badge&logo=openjdk&logoColor=0891b2"> | <img src="https://img.shields.io/badge/PostgreSQL-1c1917?style=for-the-badge&logo=postgresql&logoColor=0891b2"> | <img src="https://img.shields.io/badge/Docker-1c1917?style=for-the-badge&logo=docker&logoColor=0891b2"> |
-| <img src="https://img.shields.io/badge/Spring_Boot-1c1917?style=for-the-badge&logo=springboot&logoColor=0891b2"> | <img src="https://img.shields.io/badge/MongoDB-1c1917?style=for-the-badge&logo=mongodb&logoColor=0891b2"> | <img src="https://img.shields.io/badge/GitHub_Actions-1c1917?style=for-the-badge&logo=github-actions&logoColor=0891b2"> |
-| <img src="https://img.shields.io/badge/Spring_Security-1c1917?style=for-the-badge&logo=springsecurity&logoColor=0891b2"> | <img src="https://img.shields.io/badge/Redis-1c1917?style=for-the-badge&logo=redis&logoColor=0891b2"> | <img src="https://img.shields.io/badge/Nginx-1c1917?style=for-the-badge&logo=nginx&logoColor=0891b2"> |
-| <img src="https://img.shields.io/badge/Python-1c1917?style=for-the-badge&logo=python&logoColor=0891b2"> | | <img src="https://img.shields.io/badge/JUnit5-1c1917?style=for-the-badge&logo=junit5&logoColor=0891b2"> |
+## Core Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+## Databases & Cache
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+## DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 </div>
 
 ---
 
-## ▎ System Engineering & Projects
+# Featured Projects
 
-### RBAC Identity Service
-> **Architecture:** Spring Boot • PostgreSQL • Redis • Docker • Nginx
+## 🔐 RBAC Identity Service
 
-* **Description:** Production-oriented identity and access management platform.
-* **Features:** JWT Authentication, Adaptive MFA, Trusted Device Tracking, Geo-Fencing, Redis Session Management, and automated CI/CD deployment pipelines.
-* **Repository:** [github.com/yashuroy08/RBAC](https://github.com/yashuroy08/RBAC)
+Production-oriented identity and access management platform featuring:
 
-### Threads Fashion Backend
-> **Architecture:** Spring Boot • MongoDB • Security Filters
+- JWT Authentication
+- Adaptive MFA
+- Trusted Device Tracking
+- Geo-Fencing
+- Redis Session Management
+- CI/CD Deployment Pipeline
 
-* **Description:** Robust backend engine for an e-commerce platform.
-* **Features:** Order Lifecycle Management, Payment Workflow Integration, strict Input Validation & Sanitization, and optimized RESTful API architecture.
-* **Repository:** [github.com/yashuroy08/Threads-Fashion](https://github.com/yashuroy08/Threads-Fashion)
+**Stack:** Spring Boot • PostgreSQL • Redis • Docker • Nginx
+
+🔗 Repository:  
+https://github.com/yashuroy08/RBAC
 
 ---
 
-## ▎ Analytics & Activity
+## 🛒 Threads Fashion
+
+Backend engine for an e-commerce platform with:
+
+- Order Lifecycle Management
+- Payment Workflow Integration
+- Input Validation & Sanitization
+- MongoDB Data Modeling
+- RESTful API Architecture
+
+**Stack:** Spring Boot • MongoDB • Security Filters
+
+🔗 Repository:  
+https://github.com/yashuroy08/Threads-Fashion
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashuroy08&show_icons=true&hide_border=true&title_color=0891b2&text_color=a6adbb&icon_color=0891b2&bg_color=1c1917&include_all_commits=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashuroy08&layout=compact&hide_border=true&title_color=0891b2&text_color=a6adbb&bg_color=1c1917" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashuroy08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashuroy08&hide_border=true&bg_color=1c1917&color=0891b2&line=0891b2&point=1c1917" alt="Activity Graph" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashuroy08&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## ▎ Network & Contact
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashuroy08&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/yashwanth-patam/">
-  <img src="https://img.shields.io/badge/LinkedIn-1c1917?style=for-the-badge&logo=linkedin&logoColor=0891b2"/>
-</a>
-<a href="https://leetcode.com/u/Yashuroy08/">
-  <img src="https://img.shields.io/badge/LeetCode-1c1917?style=for-the-badge&logo=leetcode&logoColor=0891b2"/>
-</a>
-<a href="mailto:royyashwanth52@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1c1917?style=for-the-badge&logo=gmail&logoColor=0891b2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=yashuroy08&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://leetcode.com/u/Yashuroy08/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.instagram.com/yashwanthp_08">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:royyashwanth52@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building secure backend systems with Java & Spring Boot
+
+<img src="https://komarev.com/ghpvc/?username=yashuroy08&style=for-the-badge&color=0891b2" />
 
 </div>
